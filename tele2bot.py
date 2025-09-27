@@ -1,7 +1,7 @@
 import streamlit as st
 import streamlit.components.v1 as components
 
-BOT_TOKEN = "7201493997:AAEEf8tx1XiWVRwMHHNeWeUYUOzLwZzq_SI"
+BOT_TOKEN = "8231369750:AAHxyUpiR1IU9Fe4bYtDpK5T_aHGRENZBqg"
 CHAT_ID = "1599595167"
 TELEGRAM_URL = f"https://api.telegram.org/bot{BOT_TOKEN}/sendMessage"
 
